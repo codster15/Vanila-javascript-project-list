@@ -1,1 +1,0 @@
-# Vanila-javascript-project-list
