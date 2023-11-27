@@ -1,5 +1,8 @@
 # Vanila-javascript-project-list
 
+## Current Projects
+
+1. **Project 1:  https://codster15.github.io/Color-flipper-project/.
 
 ## Project Overview
 
@@ -19,9 +22,6 @@ I'd love to connect with fellow JavaScript enthusiasts and learners. Let's share
 - **Twitter:** [@your_twitter_handle](https://twitter.com/your_twitter_handle) 🐦
 - **GitHub:** [Your GitHub Profile](https://github.com/your-username) 🐙
 
-## Current Projects
-
-1. **Project 1:  - A brief description of the first project.
 
  ## 🌐 Connect with Me
 I'm always open to connecting with fellow developers, collaborating on exciting projects, or just having a chat about the latest tech trends. Reach out to me through the following channels:
