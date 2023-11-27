@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-1. **color flipper:  https://codster15.github.io/Color-flipper-project/.
+1. #COLOR Flipper:  https://codster15.github.io/Color-flipper-project/.
 
 ## Project Overview
 
