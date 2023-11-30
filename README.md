@@ -2,9 +2,9 @@
 
 ## Current Projects
 
-1. COLOR Flipper:  [COLOR FLIPPER](https://codster15.github.io/Color-flipper-project/).
-2. COUNTER APP :   [Counter App](https://codster15.github.io/Counter-app-project/)
-3. Review App :    [Review ](https://codster15.github.io/Review--project/)
+1. COLOR Flipper  :  [COLOR FLIPPER](https://codster15.github.io/Color-flipper-project/).
+2. COUNTER APP    :   [Counter App](https://codster15.github.io/Counter-app-project/)
+3. Review App     :    [Review ](https://codster15.github.io/Review--project/)
    
 
 ## Project Overview
